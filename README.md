@@ -48,6 +48,8 @@ Create a seeds file that creates:
 
 *Reminder: Be DRY - use an array of names and iterate through them to create your restaurants*
 
+## array_names
+
 **Querying**
 
 Write the following methods. You should use ActiveRecord query methods to get the results (i.e. you shouldn't just use `.all` and use array methods!)
